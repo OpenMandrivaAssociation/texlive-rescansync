@@ -1,6 +1,6 @@
 Name:		texlive-rescansync
 Version:	63856
-Release:	1
+Release:	2
 Summary:	Re-scan tokens with synctex information
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rescansync
