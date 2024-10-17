@@ -3,7 +3,7 @@ Version:	63856
 Release:	2
 Summary:	Re-scan tokens with synctex information
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rescansync
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rescansync
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rescansync.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rescansync.doc.r%{version}.tar.xz
